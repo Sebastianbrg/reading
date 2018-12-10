@@ -21,3 +21,11 @@ Value: 5
 #### [Kong Community Edition - Microservice Gateway](https://konghq.com/kong-community-edition/)
 
 Value: 3
+
+#### [Redoc - API documenation right from Swagger](https://redoc.ly/)
+
+Value: 2
+
+#### [Packr - (GO) package static files in binaries](https://github.com/gobuffalo/packr)
+
+Value: 1
