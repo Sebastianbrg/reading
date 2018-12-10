@@ -1,4 +1,4 @@
-# reading
+# read - write - consume
 
 My official readinglist.
 
